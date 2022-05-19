@@ -1,2 +1,3 @@
 line from local machine
 line from remote server
+revert
